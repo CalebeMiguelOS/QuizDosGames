@@ -1,0 +1,68 @@
+body {
+	background: #DF8E00;
+}
+
+p {
+	font-size: 18.3px;
+}
+
+#Titulo {
+	font-size: 48px;
+	font-family: Arial;
+}
+
+#aviso {
+	font-size: 40px;
+	color:#FFAE00;
+	border-style: dotted;
+	border-radius: 10px;
+	text-align: center;
+	margin-right: 35%;
+    margin-left: 35%;
+}
+
+#Super-Mario-Bros {
+	border-style: solid;
+	border-color: black;
+	border-radius: 10px;
+	border-width: 3px;
+}
+
+#Sonic-the-Hedgehog {
+	border-style: solid;
+	border-color: black;
+	border-width: 3px;
+	border-radius: 10px;
+}
+
+#Quiz {
+	position: absolute;
+	left: 10px;
+	top: 5px;
+	background-color: #FF9C00;
+    border: none;
+    color: white;
+    padding: 20px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#info {
+	position: absolute;
+	right: 10px;
+	top: 5px;
+	background-color: #FF9C00;
+    border: none;
+    color: white;
+    padding: 20px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
